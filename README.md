@@ -2,7 +2,7 @@
 
 Welcome to VendorSphere, the ultimate platform for vendors and retailers to discover, negotiate, contract, and collaborate with each other. Our application also provides comprehensive ERP services to streamline your business operations.
 
-![VendorSphere Logo](path-to-your-logo.png)
+![VendorSphere Logo](src/static/assets/logo.svg)
 
 ## Table of Contents
 
